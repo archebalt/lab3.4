@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+D:\4 сем аистд\lab3_aistd\lab3_aistd\dijkstra.h(26,23): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTest1.vcxproj -> D:\4 сем аистд\lab3_aistd\Debug\UnitTest1.dll
